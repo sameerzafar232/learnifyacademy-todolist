@@ -1,0 +1,156 @@
+
+.material-symbols-outlined {
+    font-variation-settings:
+    
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+
+  h1 {
+    font-family: 'Arial', sans-serif; 
+    font-size: 36px; 
+    color: #333; 
+    background-color: #f8f8f87e; 
+   
+    padding-left:150px ;
+    padding-right: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px; 
+    text-align: center; 
+    text-transform: uppercase; 
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.219); 
+}
+
+  .material-symbols-outlined {
+   
+    padding: 15px;
+    margin-right: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  body {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ min-height: 10vh;
+ background:rgba(255, 182, 193, 0.295)
+
+  }
+
+   
+   .Containor {
+
+background-color: #ffffffcb;
+margin: 50px;
+padding: 200px;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.493); 
+border-radius: 30px; 
+   }
+   .btn{
+    display: flex;
+    justify-content: center;
+   }
+  input {
+    background-color: #fff;
+    font-size: 20px;
+    color: #2d502c;
+    width: 100%;
+outline: none;
+    border: 1px solid gray;
+    padding-left: 10px;
+   padding-top: 15px;
+   border-radius: 10px;
+   padding-bottom: 15px;
+    margin-bottom: 100px;
+    
+    
+  }
+ 
+  
+  .add-now{
+    display: flex;
+    justify-content: center;
+  }
+  .showitems-for-remove button{
+background-color: rgb(255, 0, 0);
+padding: 20px;
+border: none;
+color: #fff;
+cursor: pointer;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.493); 
+border-radius: 20px;
+  }
+  .add-now input {
+    border-radius: 10px;
+    font-size: 15px;
+    color: #2c3e50;
+    width: 80%;
+    outline: none;
+    border: 1px solid grey;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 120px;
+    padding-bottom:  20px; ;
+    background-color: #fff;
+   
+  }
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+
+}
+
+  .add-btn button{
+    color: #FFF;
+   
+    padding: 10px  15px 10px 15px;
+    background-color: #4634A7;
+    border: none;
+    cursor: pointer;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    
+  }
+
+
+.del-btn{
+  
+display: flex;
+justify-content: flex-start;
+border-radius:20px ;
+background-color: rgb(139, 0, 0);
+padding: 10px;
+width: 50px;
+height: 50px;
+margin-left: 20px;
+}
+ .edit-btn{
+  display: flex;
+  justify-content: flex-start;
+  border-radius:20px ;
+  background-color: rgb(144, 238, 164);
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+  } 
+
+
+  .save .material-symbols-outlined{
+    background-color:rgb(146, 144, 238);
+ width: 50px;
+  border-radius: 20px;
+  padding: 10px;
+
+justify-self: start;
+  }
+  .input-data{
+    display: flex;
+    justify-content: space-around;
+  }
